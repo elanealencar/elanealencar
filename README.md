@@ -49,12 +49,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/elanealencar/elanealencar/output/snake.svg" alt="Snake animation" />
+<p align="left">Hello World!!</p>
 
 ###
 
-<p align="left">Hello World!!</p>
+<img src="https://raw.githubusercontent.com/elanealencar/elanealencar/output/snake.svg" alt="Snake animation" />
 
 ###
