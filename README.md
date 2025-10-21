@@ -4,12 +4,12 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats-i78f2mpyj-elane-alencars-projects.vercel.app/api?username=elanealencar&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&v=2"
+    src="https://github-readme-stats-i78f2mpyj-elane-alencars-projects.vercel.app/api?username=elanealencar&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&v=3"
     height="150"
     alt="stats graph"
   />
   <img
-    src="https://github-readme-stats-i78f2mpyj-elane-alencars-projects.vercel.app/api/top-langs?username=elanealencar&layout=compact&langs_count=5&theme=dracula&hide_border=false&v=2"
+    src="https://github-readme-stats-i78f2mpyj-elane-alencars-projects.vercel.app/api/top-langs?username=elanealencar&layout=compact&langs_count=5&theme=dracula&hide_border=false&v=3"
     height="150"
     alt="languages graph"
   />
