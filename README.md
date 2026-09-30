@@ -103,39 +103,49 @@ Development & Cloud
 
 🚀 Featured Projects
 
-🐾 Mini Afetos
+### 🐾 Mini Afetos
 
 Full Stack e-commerce platform developed for a custom 3D miniature business.
+
 The platform includes product customization, shopping cart, checkout, image management and integrations with external services.
 
-Technologies:
-Next.js React TypeScript Node.js Context API Prisma PostgreSQL Cloudinary Vercel
+**Technologies:**
 
-🌐 miniafetos.com.br
+`Next.js` `React` `TypeScript` `Node.js` `Context API` `Prisma` `PostgreSQL` `Cloudinary` `Vercel`
+
+<a href="https://www.miniafetos.com.br/" target="_blank">
+  <img src="https://img.shields.io/badge/View_Project-Mini_Afetos-8B5E3C?style=for-the-badge" alt="Mini Afetos" />
+</a>
 
 ⸻
 
-📋 Industrial Compliance Platform
+### 📋 Industrial Compliance Platform
 
 Web platform developed for the continuous assessment of Good Manufacturing Practices compliance in cosmetics and sanitizing product industries.
+
 The system provides dynamic checklists, automatic indicator calculations, maturity-level classification and strategic diagnostics.
 
-Technologies:
-React TypeScript Tailwind CSS
+**Technologies:**
 
-🌐 Performance Consultoria — Compliance Platform
+`React` `TypeScript` `Tailwind CSS`
+
+<a href="https://www.performanceconsultoria.com/checklist/" target="_blank">
+  <img src="https://img.shields.io/badge/View_Project-Performance_Consultoria-1F4E79?style=for-the-badge" alt="Performance Consultoria" />
+</a>
 
 ⸻
 
-💻 Developer Portfolio
+### 💻 Developer Portfolio
 
 Modern and responsive portfolio developed to showcase my projects, technologies and professional experience.
 
-Technologies:
-React JavaScript HTML5 CSS3 Vite
+**Technologies:**
 
-🌐 portfolio-elanealencar.vercel.app
+`React` `JavaScript` `HTML5` `CSS3` `Vite`
 
+<a href="https://portfolio-elanealencar.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/View_Portfolio-Elane_Alencar-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Elane Alencar Portfolio" />
+</a>
 ⸻
 
 📚 Currently
