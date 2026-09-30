@@ -13,18 +13,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    height="160"
-    src="https://github-readme-stats-i78f2mpyj-elane-alencars-projects.vercel.app/api?username=elanealencar&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"
-    alt="Elane's GitHub Stats"
-  />
-  <img
-    height="160"
-    src="https://github-readme-stats-i78f2mpyj-elane-alencars-projects.vercel.app/api/top-langs?username=elanealencar&layout=compact&langs_count=6&theme=dracula&hide_border=true"
-    alt="Elane's Most Used Languages"
-  />
-</p>
+<img
+  height="160"
+  src="https://github-readme-stats-i78f2mpyj-elane-alencars-projects.vercel.app/api?username=elanealencar&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs&theme=dracula&hide_border=true&hide_rank=true"
+  alt="Elane's GitHub Stats"
+/>
 
 ⸻
 
