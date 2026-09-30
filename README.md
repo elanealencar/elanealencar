@@ -50,6 +50,10 @@ Front-end
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="Bootstrap" />
 </div>
 
+<p align="left">
+  JavaScript • TypeScript • React • Next.js • HTML5 • CSS3 • Tailwind CSS • Bootstrap
+</p>
+
 Back-end & Database
 
 <div align="left">
@@ -60,6 +64,10 @@ Back-end & Database
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="35" alt="Prisma" />
 </div>
 
+<p align="left">
+  Node.js • APIs REST • PostgreSQL • Prisma • SQL • NoSQL
+</p>
+
 Testing
 
 <div align="left">
@@ -67,6 +75,7 @@ Testing
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="35" alt="Cypress" />
 </div>
+
 <p align="left">
   Jest • React Testing Library • Cypress (E2E)
 </p>
@@ -86,10 +95,10 @@ Development & Cloud
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35" alt="AWS" />
 </div>
+
 <p align="left">
   Git • Gitflow • GitHub • Vercel • Cloudinary • Docker • AWS
 </p>
-
 ⸻
 
 🚀 Featured Projects
