@@ -11,7 +11,7 @@
 
 ⸻
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img
@@ -28,9 +28,9 @@
 
 ⸻
 
-🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
-Front-end
+### Front-end
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
@@ -54,7 +54,7 @@ Front-end
   JavaScript • TypeScript • React • Next.js • HTML5 • CSS3 • Tailwind CSS • Bootstrap
 </p>
 
-Back-end & Database
+### Back-end & Database
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js" />
@@ -68,7 +68,7 @@ Back-end & Database
   Node.js • APIs REST • PostgreSQL • Prisma • SQL • NoSQL
 </p>
 
-Testing
+### Testing
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="35" alt="Jest" />
@@ -80,7 +80,7 @@ Testing
   Jest • React Testing Library • Cypress (E2E)
 </p>
 
-Development & Cloud
+### Development & Cloud
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
@@ -99,9 +99,10 @@ Development & Cloud
 <p align="left">
   Git • Gitflow • GitHub • Vercel • Cloudinary • Docker • AWS
 </p>
+
 ⸻
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🐾 Mini Afetos
 
@@ -146,20 +147,19 @@ Modern and responsive portfolio developed to showcase my projects, technologies 
 <a href="https://portfolio-elanealencar.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/View_Portfolio-Elane_Alencar-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Elane Alencar Portfolio" />
 </a>
+
 ⸻
 
-📚 Currently
+## 📚 Currently
 
 <p align="left">
   🎓 Postgraduate student in <strong>Full Stack Web Development</strong><br>
-  💻 Building Full Stack applications with React, Next.js, TypeScript and Node.js<br>
-  🧪 Working with automated testing using Jest, React Testing Library and Cypress<br>
   🚀 Developing and deploying real-world applications
 </p>
 
 ⸻
 
-🤝 Let’s Connect
+## 🤝 Let’s Connect
 
 <div align="left">
   <a href="mailto:dev.elanealencar@gmail.com">
