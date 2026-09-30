@@ -11,16 +11,6 @@
 
 ⸻
 
-## 📊 GitHub Stats
-
-<img
-  height="160"
-  src="https://github-readme-stats-i78f2mpyj-elane-alencars-projects.vercel.app/api?username=elanealencar&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs&theme=dracula&hide_border=true&hide_rank=true"
-  alt="Elane's GitHub Stats"
-/>
-
-⸻
-
 ## 🛠️ Technologies & Tools
 
 ### Front-end
