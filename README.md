@@ -11,6 +11,14 @@
 
 ⸻
 
+<p align="center">
+  <img
+    height="160"
+    src="https://github-readme-stats-i78f2mpyj-elane-alencars-projects.vercel.app/api/top-langs?username=elanealencar&layout=compact&langs_count=6&theme=dracula&hide_border=true"
+    alt="Elane's Most Used Languages"
+  />
+</p>
+
 ## 🛠️ Technologies & Tools
 
 ### Front-end
