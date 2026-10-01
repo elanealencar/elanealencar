@@ -5,7 +5,7 @@
   <strong>React, Next.js, TypeScript and Node.js</strong>.
 </p>
 <p align="left">
-  I have experience developing complete digital products — from interface and architecture
+  I have experience developing complete digital products: from interface and architecture
   to REST API integrations, databases, testing and production deployment.
 </p>
 
